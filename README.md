@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🏬 Tobacco Factory – Telegram Web Shop  
 
-<!--
-**TobaccoFactory/TobaccoFactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tobacco Factory** – это магазин, встроенный в Telegram, который позволяет пользователям покупать товары напрямую в боте.  
 
-Here are some ideas to get you started:
+🔗 **Наш Telegram:** [@TobaccoFactory](https://t.me/TobaccoFactory)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔒 Лицензия  
+Код и Web App являются частной собственностью.  
+Запрещено копировать, изменять и распространять без разрешения автора.  
+
+---
+
+## 📦 Основные функции  
+- 📋 **Каталог товаров** – удобный просмотр ассортимента  
+- 🛒 **Корзина** – добавление товаров перед покупкой  
+- 💳 **Оплата через Telegram Pay** – безопасные платежи прямо в боте  
+- 📩 **Уведомления
